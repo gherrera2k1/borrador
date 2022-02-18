@@ -1720,5 +1720,20 @@
     "Horas": "40h",
     "Emisión": "2017-10-17",
     "Facilitador": "Gerardo Herrera, o Karina Jacome"
+  },
+  {
+    "id": "124",
+    "First Name": "Dayana Nicole",
+    "Last Name": "Suntasig Loachamin",
+    "Email": null,
+    "Student ID": null,
+    "Last Login": null,
+    "Grade": "100",
+    "Complete (Y/N)": "true",
+    "Nombre Curso": "Gestión de emprendimientos de base tecnológica y seguridad informática",
+    "Horas": "40h",
+    "Emisión": "2022-02-18",
+    "Facilitador": "Gerardo Herrera"
   }
+
 ]
