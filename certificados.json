@@ -1762,6 +1762,33 @@
     "Horas": "40h",
     "Emisión": "2022-03-16",
     "Facilitador": "Gerardo Herrera"
+  },
+  {
+    "id": "127",
+    "First Name": "Edison Alexander",
+    "Last Name": "Jiménez Cóndor",
+    "Email": null,
+    "Student ID": null,
+    "Last Login": null,
+    "Grade": "100",
+    "Complete (Y/N)": "true",
+    "Nombre Curso": "Gestión de emprendimientos de base tecnológica y seguridad informática",
+    "Horas": "40h",
+    "Emisión": "2022-05-19",
+    "Facilitador": "Gerardo Herrera"
+  },
+  {
+    "id": "128",
+    "First Name": "Blanca Rocio",
+    "Last Name": "Lita Andrade",
+    "Email": null,
+    "Student ID": null,
+    "Last Login": null,
+    "Grade": "100",
+    "Complete (Y/N)": "true",
+    "Nombre Curso": "Gestión de emprendimientos de base tecnológica y seguridad informática",
+    "Horas": "40h",
+    "Emisión": "2022-05-19",
+    "Facilitador": "Gerardo Herrera"
   }
-
 ]
